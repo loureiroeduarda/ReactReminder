@@ -15,4 +15,7 @@ background-color: var(--purple-600);
     height: 2.5rem;
 }
 
+> p {
+    color: var(--font-white);
+}
 `
